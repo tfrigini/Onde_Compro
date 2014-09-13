@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="perfil">Perfil</string>
+    <string name="listas">Listas</string>
+    <string name="amigos">Amigos</string>
+    <string name="cadastros">Cadastros</string>
+</resources>
