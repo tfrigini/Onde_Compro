@@ -18,7 +18,7 @@ import android.support.v4.widget.DrawerLayout;
 import android.widget.ArrayAdapter;
 import android.widget.TextView;
 
-//Criei o Branch de desenvolvimento
+//Criei o Branch de desenvolvimento.
 
 public class Drawer extends Activity
         implements NavigationDrawerFragment.NavigationDrawerCallbacks {
